@@ -1,0 +1,38 @@
+[
+    {
+        "case_id": "C001",
+        "decision": "Accepted",
+        "final_root_cause": "VLAN 30 is missing from SW1",
+        "reviewer_comment": "The diagnosis matches the supplied network evidence.",
+        "corrected_fields": {},
+        "review_id": 1,
+        "reviewed_at": "2026-08-27T20:35:20.212113"
+    },
+    {
+        "case_id": "C001",
+        "decision": "Accepted",
+        "final_root_cause": "VLAN 30 is missing from SW1",
+        "reviewer_comment": "kfffk",
+        "corrected_fields": {},
+        "review_id": 2,
+        "reviewed_at": "2026-08-27T21:00:22.500472"
+    },
+    {
+        "case_id": "C001",
+        "decision": "Accepted",
+        "final_root_cause": "VLAN 30 is missing from SW1",
+        "reviewer_comment": "kfffk",
+        "corrected_fields": {},
+        "review_id": 3,
+        "reviewed_at": "2026-08-27T21:00:25.938521"
+    },
+    {
+        "case_id": "C008",
+        "decision": "Accepted",
+        "final_root_cause": "R1 does not have a route to the server network",
+        "reviewer_comment": "efc",
+        "corrected_fields": {},
+        "review_id": 4,
+        "reviewed_at": "2026-08-27T21:09:59.717298"
+    }
+]
